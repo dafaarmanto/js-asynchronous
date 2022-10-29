@@ -16,7 +16,10 @@ Or, you can use `Node.js`, if it's installed on your machine, and simply type in
 
 ```
 # In Windows, use PowerShell, Git Bash, or CMD
+
 node .\src\file_name.js
+
 # In Mac OS or Linux, you can use your terminal
+
 node ./src/file_name.js
 ```
